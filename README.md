@@ -15,9 +15,7 @@ Hi, I am Thuy Ha. 🐳 I am studying machine learning 💻⎈. I concern about c
 - ⚡ Fun fact: I prefer to plant houseplants and raise aquarium fish. It makes me feel extremely relaxed. And I could spend all day just looking at them.
 ----
 ✨ Some achievements ✨✨
-
-<!-- TODO: Make technologies links takes you to repositories -->
--
+- 📎 [Recommend a plan for plastic injection molding](https://github.com/ThuyHaLE/ThuyHaLE/blob/main/Recommendation_production_planning.ipynb)
 ---
 
 🏢 Bizness
