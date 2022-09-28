@@ -16,6 +16,7 @@ Hi, I am Thuy Ha. 🐳 I am studying data science 💻⎈. I concern about compr
 ----
 ✨ Some achievements ✨✨
 - 📎 [Recommend a plan for plastic injection molding](https://github.com/ThuyHaLE/ThuyHaLE/blob/main/Recommendation_production_planning.ipynb)
+- 📎 [Word Clouds-Belle (Japanese+Chinese)](https://github.com/ThuyHaLE/ThuyHaLE/blob/main/Word_Clouds_Belle_(Japanese%2BChinese).ipynb)
 ---
 
 🏢 Bizness
