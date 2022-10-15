@@ -1,6 +1,6 @@
 ## Hi I'm Thuy Ha <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
-Hi, I am Thuy Ha. 🐳 I am studying data science 💻⎈. I concern about comprehensive management systems and developmental research areas.☁️ I believe, The bigger it is, the more an organization will always need a comprehensive management system to maintain and develop in the long term. And shortly data science will bring us to get close to the best solution.📝💖🎉
+Hi, I am Thuy Ha. 🐳 I am studying data science 💻⎈. I am concerned about comprehensive management systems and developmental research areas.☁️ I believe, The bigger it is, the more an organization will always need a comprehensive management system to maintain and develop in the long term. And shortly data science will bring us to get close to the best solution.📝💖🎉
 
 ---
 🌐 Reach me out! 
