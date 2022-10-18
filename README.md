@@ -27,7 +27,8 @@ So, my career will be focused and oriented toward comprehensive management syste
 ---
 
 🏢 Bizness
-- 📎 [My Resume/CV](https://mega.nz/file/tt1jSL6C#d5kax8N8CHbmjJ4nSbSK9JS1RoXZNeR1P5enNRgK6gA)
+- 📎 [My Resume/CV] English (https://mega.nz/file/tt1jSL6C#d5kax8N8CHbmjJ4nSbSK9JS1RoXZNeR1P5enNRgK6gA)
+- 📎 [My Resume/CV] Japanese (https://mega.nz/file/19FngTIQ#oBO2Qo5vzWVUgwmgeGyMqv4rRzJ7pxkM-bokdCc0Ivg)
 - 📧 thuyha.le0590@gmail.com
 ---
 👀 Profile Visits 
