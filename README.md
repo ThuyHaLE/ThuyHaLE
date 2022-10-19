@@ -19,7 +19,7 @@ So, my career will be focused and oriented toward comprehensive management syste
 - ⚡ Fun fact: I prefer to plant houseplants and raise aquarium fish. It makes me feel extremely relaxed. And I could spend all day just looking at them.
 ----
 ✨ Some achievements ✨✨
-- 📎 [Recommend a plan for plastic injection molding](https://colab.research.google.com/gist/ThuyHaLE/a9549d01078b0287f715bfaccc4bd9f6/recommendation-production-planning.ipynb#scrollTo=DU9dCD9H7GR5)
+- 📎 [Recommend a plan for plastic injection molding](https://github.com/ThuyHaLE/ThuyHaLE/blob/main/Recommendation_production_planning.ipynb)
 - 📎 [Word Clouds-Belle (Japanese+Chinese)](https://github.com/ThuyHaLE/ThuyHaLE/blob/main/Word_Clouds_Belle_(Japanese%2BChinese).ipynb)
 - 📎 [Maps_Vietnam_Universities_Locations](https://github.com/ThuyHaLE/ThuyHaLE/blob/main/Maps_Vietnam_Universities_Locations.ipynb)
 - 📎 [Dash-Plotly - Covid19 info - part1](https://github.com/ThuyHaLE/ThuyHaLE/blob/main/Dash_Plotly_Covid19_info_part1.ipynb)
