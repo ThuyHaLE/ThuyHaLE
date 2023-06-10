@@ -24,6 +24,7 @@ So, my career will be focused and oriented toward comprehensive management syste
 - 📎 [Maps_Vietnam_Universities_Locations](https://github.com/ThuyHaLE/ThuyHaLE/blob/main/Maps_Vietnam_Universities_Locations.ipynb)
 - 📎 [Dash-Plotly - Covid19 info - part1](https://github.com/ThuyHaLE/ThuyHaLE/blob/main/Dash_Plotly_Covid19_info_part1.ipynb)
 - 📎 [Dash-Plotly - Covid19 info - part2](https://github.com/ThuyHaLE/ThuyHaLE/blob/main/Dash_Plotly_Covid19_info_part2.ipynb)
+- 📎 [Web Crawling Using Selenium (Japanese website)](https://github.com/ThuyHaLE/ThuyHaLE/blob/main/Web_Crawling_Using_Selenium.ipynb)
 ---
 
 🏢 Bizness
