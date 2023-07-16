@@ -28,6 +28,7 @@ So, my career will be focused and oriented toward comprehensive management syste
 - 📎 [Data_processing_using_the_AIP_command_(Kaggle)_and_Polars](https://github.com/ThuyHaLE/Data_processing/blob/main/Data_processing_using_the_AIP_command_(Kaggle)_and_Polars.ipynb)
 - 📎 [Low_rank_approximation_using_SVD_(Singular_value_decomposition)](https://github.com/ThuyHaLE/Image_processing/blob/main/Low_rank_approximation_using_SVD_(Singular_value_decomposition).ipynb)
 - 📎 [Background Replacement & Image Denoising](https://github.com/ThuyHaLE/Image_processing/blob/main/Background_Replacement_%26_Image_Denoising.ipynb)
+- 📎 [Linear Regressions](https://github.com/ThuyHaLE/Regression/blob/main/Linear_Regressions.ipynb)
 ---
 
 🏢 Bizness
