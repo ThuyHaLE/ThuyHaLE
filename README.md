@@ -19,17 +19,12 @@ So, my career will be focused and oriented toward comprehensive management syste
 - ⚡ Fun fact: I prefer to plant houseplants and raise aquarium fish. It makes me feel extremely relaxed. And I could spend all day just looking at them.
 ----
 ✨ Some achievements ✨✨
-- 📎 [Recommendation system - a plan for plastic injection molding](https://github.com/ThuyHaLE/Recommender_system/blob/main/Recommendation_production_planning.ipynb)
-- 📎 [Word Clouds-Belle (Japanese+Chinese)](https://github.com/ThuyHaLE/Data_visualization/blob/main/Word_Clouds_Belle_(Japanese%2BChinese).ipynb)
-- 📎 [Maps_Vietnam_Universities_Locations](https://github.com/ThuyHaLE/Data_visualization/blob/main/Maps_Vietnam_Universities_Locations.ipynb)
-- 📎 [Dash-Plotly - Covid19 info - part1](https://github.com/ThuyHaLE/ThuyHaLE/blob/main/Dash_Plotly_Covid19_info_part1.ipynb)
-- 📎 [Dash-Plotly - Covid19 info - part2](https://github.com/ThuyHaLE/ThuyHaLE/blob/main/Dash_Plotly_Covid19_info_part2.ipynb)
-- 📎 [Web Crawling Using Selenium (Japanese website)](https://github.com/ThuyHaLE/Data_processing/blob/main/Web_Crawling_Using_Selenium.ipynb)
-- 📎 [Data_processing_using_the_AIP_command_(Kaggle)_and_Polars](https://github.com/ThuyHaLE/Data_processing/blob/main/Data_processing_using_the_AIP_command_(Kaggle)_and_Polars.ipynb)
-- 📎 [Low_rank_approximation_using_SVD_(Singular_value_decomposition)](https://github.com/ThuyHaLE/Image_processing/blob/main/Low_rank_approximation_using_SVD_(Singular_value_decomposition).ipynb)
-- 📎 [Background Replacement & Image Denoising](https://github.com/ThuyHaLE/Image_processing/blob/main/Background_Replacement_%26_Image_Denoising.ipynb)
-- 📎 [Linear Regressions](https://github.com/ThuyHaLE/Regression/blob/main/Linear_Regressions.ipynb)
-- 📎 [Non_linear_regression_(Polynomial_Regression)](https://github.com/ThuyHaLE/Regression/blob/main/Non_linear_regression_(Polynomial_Regression).ipynb)
+- 📎 [Problem1_Prediction](https://github.com/ThuyHaLE/Problem1_Prediction)
+- 📎 [Problem2_Digital-Image-Processing](https://github.com/ThuyHaLE/Problem2_Digital-Image-Processing)
+- 📎 [Problem3_Natural Language Processing]
+- 📎 [Problem4_Data-Analysis](https://github.com/ThuyHaLE/Problem4_Data-Analysis)
+- 📎 [Recommender_system](https://github.com/ThuyHaLE/Recommender_system)
+- 📎 [Summary of techniques]
 ---
 
 🏢 Bizness
