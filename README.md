@@ -22,8 +22,9 @@ So, my career will be focused and oriented toward comprehensive management syste
 - 📎 [Problem1_Prediction](https://github.com/ThuyHaLE/Problem1_Prediction)
 - 📎 [Problem2_Digital-Image-Processing](https://github.com/ThuyHaLE/Problem2_Digital-Image-Processing)
 - 📎 [Problem3_Natural Language Processing]
-- 📎 [Problem4_Data-Analysis](https://github.com/ThuyHaLE/Problem4_Data-Analysis)
+- 📎 [Problem4_Data-Analysis-Visualization](https://github.com/ThuyHaLE/Problem4_Data-Analysis-Visualization)
 - 📎 [Recommender_system](https://github.com/ThuyHaLE/Recommender_system)
+- 📎 [AIP-application](https://github.com/ThuyHaLE/AIP-application)
 - 📎 [Summary of techniques]
 ---
 
