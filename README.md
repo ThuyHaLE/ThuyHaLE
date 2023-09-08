@@ -33,11 +33,6 @@ So, my career will be focused and oriented toward comprehensive management syste
 - 📎 [My Resume/CV-Japanese](https://mega.nz/file/19FngTIQ#oBO2Qo5vzWVUgwmgeGyMqv4rRzJ7pxkM-bokdCc0Ivg)
 - 📧 thuyha.le0590@gmail.com
 ---
-👀 Profile Visits 
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ThuyHa_Le.ThuyHa_Le)
-
----
 
 ⚡ Github Stats ⚡⚡
 
