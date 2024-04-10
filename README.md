@@ -25,6 +25,7 @@ So, my career will be focused and oriented toward comprehensive management syste
 - 📎 [Problem4_Data-Analysis-Visualization](https://github.com/ThuyHaLE/Problem4_Data-Analysis-Visualization)
 - 📎 [Recommender_system](https://github.com/ThuyHaLE/Recommender_system)
 - 📎 [AIP-application](https://github.com/ThuyHaLE/AIP-application)
+- 📎 [My projects/competions](https://github.com/ThuyHaLE/My-projects-competions)
 - 📎 [Summary of techniques]
 ---
 
