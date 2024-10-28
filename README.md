@@ -19,7 +19,7 @@ So, my career will be focused and oriented toward comprehensive management syste
 - ⚡ Fun fact: I prefer to plant houseplants and raise aquarium fish. It makes me feel extremely relaxed. And I could spend all day just looking at them.
 ----
 ✨ Some achievements ✨✨
-- 📎 [My notes/projects/competions](https://github.com/ThuyHaLE/My-notes-projects-competions)
+- 📎 [My notes/projects/competions](https://github.com/ThuyHaLE/ThuyHaLE/wiki)
 ---
 
 🏢 Bizness
