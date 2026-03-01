@@ -1,10 +1,27 @@
 ## Hi I'm Thuy Ha <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
-Hi, I am Thuy Ha. 🐳
-I am studying data science 💻⎈.
-I am concerned about comprehensive management systems and developmental research areas. ☁️
-I believe, the bigger it is, the more an organization will always need a comprehensive management system to maintain and develop in the long term. And shortly data science will bring us to get close to the best solution. 📝💖🎉
-So, my career will be focused and oriented toward comprehensive management systems and developmental research areas.
+I didn’t start with AI.
+
+I started with a production planning problem while working in a manufacturing environment.
+
+Although information existed, decisions were still mostly based on experience rather than structured insight.  
+This led me to explore whether a simple system could support planning and monitoring.
+
+I began with Excel, then built a small rule-based allocation tool using pandas to help distribute orders across machines.
+
+It worked — but only to a point.
+
+Seeing its limitations motivated me to study data science and AI more seriously in 2023.  
+Since then, I’ve explored machine learning, computer vision, and NLP through applied projects and competitions.
+
+Over time, I became more interested in coordination at the system level rather than isolated prediction.  
+Multi-agent approaches appeared to be a natural fit for planning environments.
+
+This brought me back to the original problem.
+
+Today, I focus on building system-oriented decision support tools for operational environments.
+
+**OptiMoldIQ** is one example of this direction — evolving from simple rule-based logic into a workflow-driven planning orchestration system.
 
 ---
 🌐 Reach me out! 
@@ -14,20 +31,22 @@ So, my career will be focused and oriented toward comprehensive management syste
 [![Mail Badge](https://img.shields.io/badge/-ThuyHa-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:thuyha.le0590@gmail.com)
 
 ---
-- 🔭 I’m currently learning how to use python to analyze historical data to recommend the next most suitable plan.
-- 📫 How to reach me: thuyha.le0590@gmail.com.
-- ⚡ Fun fact: I prefer to plant houseplants and raise aquarium fish. It makes me feel extremely relaxed. And I could spend all day just looking at them.
+### 🔎 Current Focus
+
+- Production planning systems  
+- Operational decision support  
+- Multi-agent orchestration  
+- Applied AI for structured environments
+  
 ----
-✨ Some achievements ✨✨
-- 📎 [My notes/projects/competions](https://github.com/ThuyHaLE/ThuyHaLE/wiki)
+### 🧭 Work & Learning
+
+- 📎 [Notes / Projects / Competitions](https://github.com/ThuyHaLE/ThuyHaLE/wiki)[My notes/projects/competions](https://github.com/ThuyHaLE/ThuyHaLE/wiki)
+  
 ---
 
-🏢 Bizness
-- 📎 [My Resume/CV-English](https://mega.nz/file/tt1jSL6C#d5kax8N8CHbmjJ4nSbSK9JS1RoXZNeR1P5enNRgK6gA)
-- 📎 [My Resume/CV-Japanese](https://mega.nz/file/19FngTIQ#oBO2Qo5vzWVUgwmgeGyMqv4rRzJ7pxkM-bokdCc0Ivg)
+### 📄 Resume
+
+- 📎 [CV - English](https://mega.nz/file/tt1jSL6C#d5kax8N8CHbmjJ4nSbSK9JS1RoXZNeR1P5enNRgK6gA)
+- 📎 [CV - Japanese](https://mega.nz/file/19FngTIQ#oBO2Qo5vzWVUgwmgeGyMqv4rRzJ7pxkM-bokdCc0Ivg)
 - 📧 thuyha.le0590@gmail.com
----
-
-⚡ Github Stats ⚡⚡
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThuyHaLE&hide=contribs,prs&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
