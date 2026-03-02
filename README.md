@@ -1,27 +1,30 @@
 ## Hi I'm Thuy Ha <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
+> **I build systems to help real decisions happen — not just predictions.**
+
 I didn’t start with AI.
+I started with a production planning problem in a manufacturing environment.
 
-I started with a production planning problem while working in a manufacturing environment.
+The data existed — machines, molds, orders.
+But planning still relied mostly on experience.
 
-Although information existed, decisions were still mostly based on experience rather than structured insight.  
-This led me to explore whether a simple system could support planning and monitoring.
+So I built a small rule-based tool to help allocate orders across machines.
 
-I began with Excel, then built a small rule-based allocation tool using pandas to help distribute orders across machines.
+It worked — until complexity grew.
 
-It worked — but only to a point.
+That limitation led me to study data science and AI more seriously in 2023.
+Through applied projects and competitions, I explored machine learning, computer vision, and NLP.
 
-Seeing its limitations motivated me to study data science and AI more seriously in 2023.  
-Since then, I’ve explored machine learning, computer vision, and NLP through applied projects and competitions.
+Over time, my focus shifted:
 
-Over time, I became more interested in coordination at the system level rather than isolated prediction.  
-Multi-agent approaches appeared to be a natural fit for planning environments.
+not just prediction,
+but coordination.
 
-This brought me back to the original problem.
+Today, I work on system-oriented decision support tools
+where multiple components interact to produce usable plans.
 
-Today, I focus on building system-oriented decision support tools for operational environments.
-
-**OptiMoldIQ** is one example of this direction — evolving from simple rule-based logic into a workflow-driven planning orchestration system.
+**OptiMoldIQ** reflects this direction —
+evolving from simple rule logic into a workflow-driven planning orchestration system.
 
 ---
 🌐 Reach me out! 
