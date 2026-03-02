@@ -1,8 +1,9 @@
-## Hi I'm Thuy Ha <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
+## Hi I'm Thuy Ha 👋
 
 > **I build systems to help real decisions happen — not just predictions.**
 
 I didn’t start with AI.
+
 I started with a production planning problem in a manufacturing environment.
 
 The data existed — machines, molds, orders.
@@ -17,10 +18,10 @@ Through applied projects and competitions, I explored machine learning, computer
 
 Over time, my focus shifted:
 
-not just prediction,
-but coordination.
+from prediction  
+to coordination.
 
-Today, I work on system-oriented decision support tools
+Today, I work on decision-support systems
 where multiple components interact to produce usable plans.
 
 **OptiMoldIQ** reflects this direction —
@@ -44,7 +45,7 @@ evolving from simple rule logic into a workflow-driven planning orchestration sy
 ----
 ### 🧭 Work & Learning
 
-- 📎 [Notes / Projects / Competitions](https://github.com/ThuyHaLE/ThuyHaLE/wiki)[My notes/projects/competions](https://github.com/ThuyHaLE/ThuyHaLE/wiki)
+- 📎 [Notes / Projects / Competitions](https://github.com/ThuyHaLE/ThuyHaLE/wiki)
   
 ---
 
