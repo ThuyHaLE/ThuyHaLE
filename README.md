@@ -2,30 +2,20 @@
 
 > **I build systems to help real decisions happen — not just predictions.**
 
-I didn’t start with AI.
+My background is in manufacturing, where data existed but decisions still relied mostly on experience. 
+That gap is what got me into AI — not the other way around.
 
-I started with a production planning problem in a manufacturing environment.
+I started with a small rule-based tool to allocate orders across machines. It worked until complexity grew. 
+That limitation pushed me to study AI more seriously — and eventually brought me back to the original problem with better tools.
 
-The data existed — machines, molds, orders.
-But planning still relied mostly on experience.
+**OptiMoldIQ** is the result: a task-specialized multi-agent system for production planning and monitoring, 
+in which each agent handles a distinct role — data collection, progress tracking, analytics, planning — and communicates through a shared database rather than direct messaging.
+The orchestration is deterministic by design because in manufacturing, correctness matters more than flexibility.
 
-So I built a small rule-based tool to help allocate orders across machines.
+It was built around a real problem. But also with assumptions — because building alone means fewer constraints, 
+less friction, and no one pushing back on your decisions.
 
-It worked — until complexity grew.
-
-That limitation led me to study data science and AI more seriously in 2023.
-Through applied projects and competitions, I explored machine learning, computer vision, and NLP.
-
-Over time, my focus shifted:
-
-from prediction  
-to coordination.
-
-Today, I work on decision-support systems
-where multiple components interact to produce usable plans.
-
-**OptiMoldIQ** reflects this direction —
-evolving from simple rule logic into a workflow-driven planning orchestration system.
+That's what I'm looking for next: real environments where systems meet real users, real edge cases, and real feedback.
 
 ---
 🌐 Reach me out! 
