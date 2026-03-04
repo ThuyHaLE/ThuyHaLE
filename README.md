@@ -9,7 +9,7 @@ I started with a small rule-based tool to allocate orders across machines.
 It worked until complexity grew. 
 That limitation pushed me to study AI more seriously — and eventually brought me back to the original problem with better tools.
 
-**OptiMoldIQ** is the result: a task-specialized multi-agent system for production planning and monitoring, 
+**[OptiMoldIQ](https://github.com/ThuyHaLE/OptiMoldIQ)** is the result: a task-specialized multi-agent system for production planning and monitoring, 
 where each agent handles a distinct role — data collection, progress tracking, analytics, planning — communicating through a shared database rather than direct messaging. 
 The orchestration is deterministic by design because in manufacturing, correctness matters more than flexibility.
 
