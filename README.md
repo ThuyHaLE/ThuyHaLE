@@ -39,6 +39,4 @@ That's what I'm looking for next: real environments where systems meet real user
 
 ### 📄 Resume
 
-- 📎 [CV - English](https://mega.nz/file/tt1jSL6C#d5kax8N8CHbmjJ4nSbSK9JS1RoXZNeR1P5enNRgK6gA)
-- 📎 [CV - Japanese](https://mega.nz/file/19FngTIQ#oBO2Qo5vzWVUgwmgeGyMqv4rRzJ7pxkM-bokdCc0Ivg)
-- 📧 thuyha.le0590@gmail.com
+- 📎 [CV - English](https://mega.nz/file/QoVEnSxR#EP_0gWynsTLyqTBnhPWN_qh_iAkG6VshTqHJHoDxrj8)
