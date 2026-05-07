@@ -2,7 +2,7 @@
 
 > **I build systems to help real decisions happen — not just predictions.**
 
-My background is in manufacturing, where data existed but decisions still relied mostly on experience. 
+My background is in manufacturing, where data existed but nobody knew what to do with it next — decisions still relied mostly on experience.
 That gap is what got me into AI — not the other way around.
 
 I started with a small rule-based tool to allocate orders across machines. 
