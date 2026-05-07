@@ -26,14 +26,6 @@ That's what I'm looking for next: real environments where systems meet real user
 [![Twitter Badge](https://img.shields.io/badge/-@ThuyHa-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ThuyHaLE_527)](https://twitter.com/ThuyHaLE_527)
 [![Linkedin Badge](https://img.shields.io/badge/-ThuyHa-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thuyha-le-10694710b/) 
 [![Mail Badge](https://img.shields.io/badge/-ThuyHa-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:thuyha.le0590@gmail.com)
-
----
-### 🔎 Current Focus
-
-- Production planning systems  
-- Operational decision support  
-- Multi-agent orchestration  
-- Applied AI for structured environments
   
 ---
 
